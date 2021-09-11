@@ -1,6 +1,6 @@
 # google_font
-
-A new Flutter project.
+Google Font. Flutter Project 
+แอป Thai Font Viewer เพื่อแสดงฟอนต์ภาษาไทยที่มีใน Google Fonts
 
 ## Getting Started
 
